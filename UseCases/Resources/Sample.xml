@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Container>
+	<Item Name="This" Description="This thing we like" />
+	<Item Name="That" Description="Another thing we like" />
+	<Item Name="Hello" Description="A greeting we like" />
+</Container>
